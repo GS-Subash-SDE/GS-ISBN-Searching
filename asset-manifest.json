@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoContestWeek1Aug/static/css/main.3414d744.css",
+    "main.js": "/CryptoContestWeek1Aug/static/js/main.6a524310.js",
+    "index.html": "/CryptoContestWeek1Aug/index.html",
+    "main.3414d744.css.map": "/CryptoContestWeek1Aug/static/css/main.3414d744.css.map",
+    "main.6a524310.js.map": "/CryptoContestWeek1Aug/static/js/main.6a524310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3414d744.css",
+    "static/js/main.6a524310.js"
+  ]
+}
